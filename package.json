@@ -1,0 +1,16 @@
+{
+  "name": "parking-cost-calculator",
+  "version": "1.0.0",
+  "description": "This project contains acceptance tests for testing a parking calculator application using the Cypress end-to-end testing framework.",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "author": "Oliver Jacks",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.8.0",
+    "date-fns": "^3.6.0"
+  }
+}
